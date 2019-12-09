@@ -6,7 +6,7 @@ I am a PhD scholar in the department of Computer Science and Engineering at IIT 
 Please find my CV [here](a).
 
 ### Education
-```Education
+
 
 
 - PhD, Indian Institute of Technology,Kharagpur from 2018-now.  
@@ -16,8 +16,8 @@ Please find my CV [here](a).
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+ ![Image](src)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 

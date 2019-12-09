@@ -13,11 +13,27 @@ Please find my CV [here](a).
 * ME, Indian Institute of Science, 2011-2013.
 * BE, IIEST,Shibpur, 2006-2010.
 
+### Work experience 
 
-**Bold** and _Italic_ and `Code` text
+* Internship at MPI-SWS, Kaiserslautern during May-July 2019. 
+* Research Assistant at IIT Bombay , 2013-2018.
 
+### Teaching Assistantship
+
+* IIT Kharagpur
+ * Foundations of Algorithms and Data Structure and Machine Learning
+ * Information Retrieval
+* IIT Bombay
+ * Convex Optimization
+ * Linear Optimization
+ * Computer Programming (UG)
+ * Machine Learning
  
-
+ ### Courses Done
+ * Machine Learning , Graphical Models , Foundation in Machine Learning , Patern Recognition and Neural Networks
+ * Probability and Random Process, Linear Algebra , Graph Theory
+ * Information Retrieval, Scalable Data Mining
+ * Convex Optimization, Combinatorial Optimization
 
 
 ### Contact

@@ -1,25 +1,18 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/paramita1024/paramita1024.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a PhD scholar in the department of Computer Science and Engineering at IIT Kharagpur, India. I am working under the supervision of Prof. Niloy Ganguly and Prof. Sourangshu Bhattacharya in this institute. Also I am currently a part of Complex Networks Research Group at IIT Kharagpur.  My research area is broadly machine learning. I am interested in machine learning models in social networks , specifically various opinion diffusion modeling in social network. I am also interested in the development of various machine learning models that are optimized to operate under different automation levels, broadly putting human in a loop with machine learning systems. I am also interested in recent developments in the area of multi agent reinforcement learning. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Please find my CV [here](a).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Education
+```Education
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+- PhD, Indian Institute of Technology,Kharagpur from 2018-now.  
+- ME, Indian Institute of Science, 2011-2013.
+- BE, IIEST,Shibpur, 2006-2010.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
@@ -28,10 +21,9 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/paramita1024/paramita1024.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
+### Contact
+-E - mail : paramita2000@gmail.com
+-Institute E-mail : paramita.koley@iitkgp.ac.in
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

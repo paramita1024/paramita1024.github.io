@@ -37,5 +37,5 @@ Please find my CV [here](a).
 
 
 ### Contact
-* E-mail : paramita2000@gmail.com
-* Institute E-mail : paramita.koley@iitkgp.ac.in
+* E-mail : paramita2000 AT gmail DOT com
+* Institute E-mail : paramita DOT koley AT iitkgp DOT ac DOT in

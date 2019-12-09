@@ -36,6 +36,7 @@ Please find my CV [here](https://github.com/paramita1024/paramita1024.github.io/
     * Machine Learning
  
  ### Courses Done
+ 
  * Machine Learning , Graphical Models , Foundation in Machine Learning , Patern Recognition and Neural Networks
  * Probability and Random Process, Linear Algebra , Graph Theory
  * Information Retrieval, Scalable Data Mining
@@ -43,5 +44,6 @@ Please find my CV [here](https://github.com/paramita1024/paramita1024.github.io/
 
 
 ### Contact
+
 * E-mail : paramita2000 AT gmail DOT com
 * Institute E-mail : paramita DOT koley AT iitkgp DOT ac DOT in

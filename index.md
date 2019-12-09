@@ -5,6 +5,12 @@ I am a PhD scholar in the department of Computer Science and Engineering at IIT 
 
 Please find my CV [here](a).
 
+### Publication
+* Regression Under Human Assistance 
+   * 	Abir De, Paramita Koley, Niloy Ganguly, Manuel Gomez-Rodriguez ( AAAI-2020)
+* Generative Maximum Entropy Learning for Multiclass Classification
+   * Ambedkar Dukkipati, Gaurav Pandey, Debarghya Ghoshdastidar, Paramita Koley, D. M. V. Satya Sriram (ICDM-2013)
+
 ### Education
 
 

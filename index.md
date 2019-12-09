@@ -16,14 +16,10 @@ Please find my CV [here](a).
 
 **Bold** and _Italic_ and `Code` text
 
- ![Image](src)
+ 
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
 ### Contact
 * E-mail : paramita2000@gmail.com
 * Institute E-mail : paramita.koley@iitkgp.ac.in
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

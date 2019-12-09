@@ -3,7 +3,7 @@
 I am a PhD scholar in the department of Computer Science and Engineering at IIT Kharagpur, India. I am working under the supervision of Prof. Niloy Ganguly and Prof. Sourangshu Bhattacharya in this institute. Also I am currently a part of Complex Networks Research Group at IIT Kharagpur.  My research area is broadly machine learning. I am interested in machine learning models in social networks , specifically various opinion diffusion modeling in social network. I am also interested in the development of various machine learning models that are optimized to operate under different automation levels, broadly putting human in a loop with machine learning systems. I am also interested in recent developments in the area of multi agent reinforcement learning. 
 
 
-Please find my CV [here](paramita1024.github.io/PARAMITA CV 2019.pdf).
+Please find my CV [here](https://github.com/paramita1024/paramita1024.github.io/blob/master/PARAMITA%20CV%202019.pdf).
 
 ### Publication
 * Regression Under Human Assistance 

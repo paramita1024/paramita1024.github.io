@@ -21,13 +21,13 @@ Please find my CV [here](a).
 ### Teaching Assistantship
 
 * IIT Kharagpur
- * Foundations of Algorithms and Data Structure and Machine Learning
- * Information Retrieval
+    * Foundations of Algorithms and Data Structure and Machine Learning
+    * Information Retrieval
 * IIT Bombay
- * Convex Optimization
- * Linear Optimization
- * Computer Programming (UG)
- * Machine Learning
+    * Convex Optimization
+    * Linear Optimization
+    * Computer Programming (UG)
+    * Machine Learning
  
  ### Courses Done
  * Machine Learning , Graphical Models , Foundation in Machine Learning , Patern Recognition and Neural Networks

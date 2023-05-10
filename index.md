@@ -6,15 +6,12 @@ I am a PhD scholar in the department of Computer Science and Engineering at IIT 
 Please find my CV [here](https://github.com/paramita1024/paramita1024.github.io/blob/master/PARAMITA%20CV%202019.pdf).
 
 ### Publication
-* 
-* Demarcating Endogenous and Exogenous Opinion Dynamics: An Experimental Design Approach
-Paramita Koley, Avirup Saha, Sourangshu Bhattacharya, Niloy Ganguly, Abir De. 
-ACM Trans. Knowl. Discov. Data (2021)
-* Abir De, Paramita Koley, Niloy Ganguly, Manuel Gomez-Rodriguez:
-Regression under Human Assistance. AAAI 2020: 2611-2620
-* De, Abir, Paramita Koley, Niloy Ganguly, and Manuel Gomez-Rodriguez. "Regression under human assistance." AAAI 2020.
-* Generative Maximum Entropy Learning for Multiclass Classification
-   * Ambedkar Dukkipati, Gaurav Pandey, Debarghya Ghoshdastidar, Paramita Koley, D. M. V. Satya Sriram (ICDM-2013)
+
+* Differentiable Change-point Detection With Temporal Point Processes. Paramita Koley, Harshavardhan Alimi, Shrey Singla, Sourangshu Bhattacharya, Niloy Ganguly, Abir De. AISTATS 2023. 
+* Offsetting Unequal Competition Through RL-Assisted Incentive Schemes. Paramita Koley, Aurghya Maiti, Sourangshu Bhattacharya, Niloy Ganguly. IEEE Transactions on Computational Social Systems 2022. 
+* Demarcating Endogenous and Exogenous Opinion Dynamics: An Experimental Design Approach. Paramita Koley, Avirup Saha, Sourangshu Bhattacharya, Niloy Ganguly, Abir De. ACM Trans. Knowl. Discov. Data  2021.
+* Regression under Human Assistance. Abir De, Paramita Koley, Niloy Ganguly, Manuel Gomez-Rodriguez. AAAI 2020.
+* Generative Maximum Entropy Learning for Multiclass Classification. Ambedkar Dukkipati, Gaurav Pandey, Debarghya Ghoshdastidar, Paramita Koley, D. M. V. Satya Sriram. ICDM 2013. 
 
 ### Education
 * PhD, Indian Institute of Technology,Kharagpur from 2018-now.  

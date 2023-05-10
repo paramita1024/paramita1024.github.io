@@ -6,9 +6,13 @@ I am a PhD scholar in the department of Computer Science and Engineering at IIT 
 Please find my CV [here](https://github.com/paramita1024/paramita1024.github.io/blob/master/PARAMITA%20CV%202019.pdf).
 
 ### Publication
-* Paramita Koley, Avirup Saha, Sourangshu Bhattacharya, Niloy Ganguly, Abir De: Demarcating Endogenous and Exogenous Opinion Dynamics: An Experimental Design Approach. ACM Trans. Knowl. Discov. Data 15(6): 99:1-99:25 (2021)
+* 
+* Demarcating Endogenous and Exogenous Opinion Dynamics: An Experimental Design Approach
+Paramita Koley, Avirup Saha, Sourangshu Bhattacharya, Niloy Ganguly, Abir De. 
+ACM Trans. Knowl. Discov. Data (2021)
 * Abir De, Paramita Koley, Niloy Ganguly, Manuel Gomez-Rodriguez:
 Regression under Human Assistance. AAAI 2020: 2611-2620
+* De, Abir, Paramita Koley, Niloy Ganguly, and Manuel Gomez-Rodriguez. "Regression under human assistance." AAAI 2020.
 * Generative Maximum Entropy Learning for Multiclass Classification
    * Ambedkar Dukkipati, Gaurav Pandey, Debarghya Ghoshdastidar, Paramita Koley, D. M. V. Satya Sriram (ICDM-2013)
 
@@ -25,6 +29,9 @@ Regression under Human Assistance. AAAI 2020: 2611-2620
 * IIT Kharagpur
     * Foundations of Algorithms and Data Structure and Machine Learning
     * Information Retrieval
+    * Natural Language Processing
+    * Machine Learning
+    * Algorithms and Data Structures Laboratory
 * IIT Bombay
     * Convex Optimization
     * Linear Optimization

@@ -1,5 +1,6 @@
+# Paramita Koley
 
-## Paramita Koley
+## About me
 
 I am a PhD scholar in the department of Computer Science and Engineering at IIT Kharagpur, India. I am working under the supervision of Prof. Niloy Ganguly and Prof. Sourangshu Bhattacharya. Also I am currently a part of Complex Networks Research Group at IIT Kharagpur.  My research area is broadly machine learning. I am interested in learning with temporal point processes. Broadly, my works address various robust learning problem in modeling asynchronous temporal sequences. I am also interested in the development of various machine learning models that are optimized to operate under different automation levels, broadly putting human in a loop with machine learning systems. I have also worked in multi-agent reinforcement learning. My works address various learning challenges in multi-agent team competitions. 
 

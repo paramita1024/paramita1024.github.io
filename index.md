@@ -1,4 +1,3 @@
-# Paramita Koley
 
 ## About Me
 

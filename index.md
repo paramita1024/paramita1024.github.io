@@ -6,7 +6,7 @@ I am a PhD scholar in the department of Computer Science and Engineering at IIT 
 
 Currently, I am part of Complex Networks Research Group at IIT Kharagpur. Prior to this, I have completed my master's degree from the department of Computer Science and Automation at IISc, Bangalore. Before that, I completed my bachelor's degree from the department of Information Technology at IIEST, Shibpur. 
 
-Please find my CV [here](https://github.com/paramita1024/paramita1024.github.io/blob/master/PARAMITA%20CV%202019.pdf).
+Please find my CV [here](https://github.com/paramita1024/paramita1024.github.io/blob/master/CV.pdf).
 
 ### Publication
 

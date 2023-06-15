@@ -22,4 +22,5 @@ header_pages:
   #- resume.md
   - publications.md
   - index.md
-  - projects.md
+  - 
+  #- projects.md

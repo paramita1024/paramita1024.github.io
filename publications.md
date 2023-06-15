@@ -5,12 +5,15 @@ title: Publications
 #author_profile: true
 ---
 
-1. \"Financial Numeric Extreme Labelling: A Dataset and Benchmarking for XBRL Tagging\" - Subhendu Khatuya, Soumya Sharma, Manjunath Hegde, Afreen Shaikh,
-Koustuv Dasgupta, Pawan Goyal, Niloy Ganguly accepted as short Paper In Proceedings of Association for Computational Linguistics (_**ACL**_),Toronto, Canada, 9-14 July 2023 (Accepted)
+1. \" Differentiable Change-point Detection With Temporal Point Processes\" - _**Paramita Koley**_, Harshavardhan Alimi, Shrey Singla, Sourangshu Bhattacharya, Niloy Ganguly, Abir De. AISTATS (2023), Valencia, Spain. 
 
-2. \"ADELE: Anomaly Detection from Event Log Empiricism\" - _**Subhendu Khatuya**_,  Jayanta Basak, Niloy Ganguly, Madhumita Bharde, Bivas Mitra accepted as long Paper In Proceedings of IEEE International Conference on Computer Communications (_**INFOCOM**_), Honolulu, HI, USA, 15-19 April 2018 (Accepted) Acceptance rate: 19.2%. [<span style="color:blue"> [PDF]</span>](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8486257)
+2. \" Offsetting Unequal Competition Through RL-Assisted Incentive Schemes\" - _**Paramita Koley**_, Aurghya Maiti, Sourangshu Bhattacharya, Niloy Ganguly. IEEE Transactions on Computational Social Systems (2022). [<span style="color:blue"> [PDF]</span>](https://ieeexplore.ieee.org/document/9693521)
 
-3. \" GBTM: Graph Based Troubleshooting Method for Handling Customer Cases Using Storage System Log\" - _**Subhendu Khatuya**_, Ajay Bakhshi, Jayanta Basak, Niloy Ganguly, Bivas Mitra, The 22nd Pacific-Asia Conference on Knowledge Discovery and Data Mining (_**PAKDD**_), Melbourne, Australia 2018 (Accepted).Acceptance rate:17.79%. [<span style="color:blue"> [PDF]</span>](https://link.springer.com/content/pdf/10.1007/978-3-319-93034-3_31.pdf)
+3. \" Demarcating Endogenous and Exogenous Opinion Dynamics: An Experimental Design Approach\" - _**Paramita Koley**_, Avirup Saha, Sourangshu Bhattacharya, Niloy Ganguly, Abir De. ACM Transaction on Knowledge Discovery from Data (2021). [<span style="color:blue"> [PDF]</span>](https://dl.acm.org/doi/10.1145/3449361)
+
+4. \" Regression under Human Assistance\" - Abir De, _**Paramita Koley**_, Niloy Ganguly, Manuel Gomez-Rodriguez. AAAI (2020). [<span style="color:blue"> [PDF]</span>](https://ojs.aaai.org/index.php/AAAI/article/view/5645)
+
+5. \" Generative Maximum Entropy Learning for Multiclass Classification \" - Ambedkar Dukkipati, Gaurav Pandey, Debarghya Ghoshdastidar, _**Paramita Koley**_, D. M. V. Satya Sriram. ICDM (2013). [<span style="color:blue"> [PDF]</span>](https://ieeexplore.ieee.org/document/6729498)  
 
 
 

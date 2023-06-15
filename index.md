@@ -1,42 +1,34 @@
-# Paramita Koley
+---
+layout: default
+title: Home
+---
 
-## About me
+Currently I am a PhD scholar in [<span style="color:blue"> Computer Science and Engineering</span>](http://cse.iitkgp.ac.in/) at [<span style="color:blue">Indian Institue of Technology, Kharagpur</span>](http://www.iitkgp.ac.in/). I am working under the supervision of [<span style="color:blue">Dr. Pawan Goyal</span>](https://cse.iitkgp.ac.in/~pawang/) and [<span style="color:blue">Dr. Niloy Ganguly</span>](http://www.facweb.iitkgp.ernet.in/~niloy/) in this institute. I joined Ernst & Young (EY) as a data scientist and worked on various NLP and deep learning projects from 2019-2021. My current research interest includes NLP, AI,deep learning, temporal point process.
 
-I am a PhD scholar in department of Computer Science and Engineering at IIT Kharagpur, India. I am working under the supervision of Prof. Niloy Ganguly and Prof. Sourangshu Bhattacharya. Also I am currently a part of Complex Networks Research Group at IIT Kharagpur.  My research area is broadly machine learning. I am interested in learning with temporal point processes. Broadly, my works address various robust learning problem in modeling asynchronous temporal sequences. I am also interested in the development of various machine learning models that are optimized to operate under different automation levels, broadly putting human in a loop with machine learning systems. I have also worked in multi-agent reinforcement learning. My works address various learning challenges in multi-agent team competitions. 
-
-Currently, I am part of Complex Networks Research Group at IIT Kharagpur. Prior to this, I have completed my master's degree from the department of Computer Science and Automation at IISc, Bangalore. Before that, I completed my bachelor's degree from the department of Information Technology at IIEST, Shibpur. 
-
-Please find my CV <a href="Paramita-CV.pdf" >here</a>
-
-### Publication
-
-* Differentiable Change-point Detection With Temporal Point Processes. Paramita Koley, Harshavardhan Alimi, Shrey Singla, Sourangshu Bhattacharya, Niloy Ganguly, Abir De. AISTATS 2023. 
-* Offsetting Unequal Competition Through RL-Assisted Incentive Schemes. Paramita Koley, Aurghya Maiti, Sourangshu Bhattacharya, Niloy Ganguly. IEEE Transactions on Computational Social Systems 2022. 
-* Demarcating Endogenous and Exogenous Opinion Dynamics: An Experimental Design Approach. Paramita Koley, Avirup Saha, Sourangshu Bhattacharya, Niloy Ganguly, Abir De. ACM Trans. Knowl. Discov. Data  2021.
-* Regression under Human Assistance. Abir De, Paramita Koley, Niloy Ganguly, Manuel Gomez-Rodriguez. AAAI 2020.
-* Generative Maximum Entropy Learning for Multiclass Classification. Ambedkar Dukkipati, Gaurav Pandey, Debarghya Ghoshdastidar, Paramita Koley, D. M. V. Satya Sriram. ICDM 2013. 
-
-### Education
-* PhD, Indian Institute of Technology,Kharagpur from 2018-now.  
-* ME, Indian Institute of Science, 2011-2013.
-* BE, IIEST,Shibpur, 2006-2010.
-
-### Work experience 
-* Internship at MPI-SWS, Kaiserslautern during May-July 2019. 
-* Research Assistant at IIT Bombay , 2013-2018.
-
-### Teaching Assistantship
-* Data Structures, Machine Learning, Information Retrieval, Natural Language Processing, Convex and Linear Optimization, C Programming.
- 
-### Courses Done
- 
-* Machine Learning , Graphical Models , Foundation in Machine Learning , Patern Recognition and Neural Networks
-* Probability and Random Process, Linear Algebra , Graph Theory
-* Information Retrieval, Scalable Data Mining
-* Convex Optimization, Combinatorial Optimization
+Earlier I received my Master of Science (MS by research) degree from the [<span style="color:blue">Department of Computer Science and Engineering</span>](http://cse.iitkgp.ac.in/) at [<span style="color:blue">Indian Institue of Technology, Kharagpur</span>](http://www.iitkgp.ac.in/). There I was a Junior Research Fellow (JRF) and was an active member of the Complex Network Research Group ([<span style="color:blue">CNeRG</span>](http://www.cnergres.iitkgp.ac.in/)). My supervisors were [<span style="color:blue">Dr. Bivas Mitra </span>](https://cse.iitkgp.ac.in/~bivasm/) and [<span style="color:blue">Dr. Niloy Ganguly</span>](http://www.facweb.iitkgp.ernet.in/~niloy/). 
 
 
-### Contact
+I received my Bachelor of Technology (B. Tech) degree in [<span style="color:blue">Computer Science and Engineering</span>](https://kgec.edu.in/department?name=cse) from [<span style="color:blue">Kalyani Govt. Engg. College</span>](https://kgec.edu.in/), India in 2014. 
 
-* E-mail : paramita2000 AT gmail DOT com
-* Institute E-mail : paramita DOT koley AT iitkgp DOT ac DOT in
+
+<br/><br/>
+
+# Highlights
+
+
+2023 	
+```
+    [May] : Paper accepted at ACL-23, Toronto, Canada, 9-14 July
+    [Apr] : Poster accepted at AI.Imapct23 at IITB, 28-29th April
+```
+
+2022 	
+```
+    [Dec] : Attended IndoML-2022, at IITGN, 15-17th December
+```
+```
+    [Apr] : Honoured to be selected for the prestigious 
+    Prime Minister's Research Fellowship (PMRF) May cycle 2022
+```
+
+

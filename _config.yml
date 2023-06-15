@@ -19,7 +19,7 @@ plugins:
   - jemoji
 
 header_pages:
-  - [I'm an inline-style link](https://www.google.com)
+  - resume1.md
   - publications.md
   - index.md
   #- projects.md

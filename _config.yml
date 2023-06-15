@@ -19,8 +19,7 @@ plugins:
   - jemoji
 
 header_pages:
-  #- resume.md
+  - resume.md
   - publications.md
   - index.md
-  - 
   #- projects.md

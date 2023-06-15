@@ -1,12 +1,12 @@
-name: Subhendu Khatuya's blog
-title: Subhendu Khatuya
-url: https://subhendukhatuya.github.io/
+name: Paramita
+title: Paramita Koley
+url: https://paramita1024/paramitakoley.github.io/
 baseurl: ""
 twitter_username:
-github_username:  subhendukhatuya
-linkedin_username: subhendu-khatuya-543140a8
+github_username:  paramita1024
+#linkedin_username: subhendu-khatuya-543140a8
 description: Machine learning, Deep learning, NLP, Computer Vision and other areas of data science.
-# email: sanakarshan7@gmail.com
+email: paramita2000@gmail.com
 permalink: /blog/:year/:month/:day/:title
 theme: minima
 
@@ -21,6 +21,5 @@ plugins:
 header_pages:
   #- resume.md
   - publications.md
-  #- blog/index.html
   - index.md
   - projects.md

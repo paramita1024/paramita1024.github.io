@@ -7,5 +7,4 @@ author_profile: TRUE
 header:
   image: assets/images/banner.jpg
 ---
-
-<embed src="Paramita-CV.pdf" type="application/pdf" />
+<a href="Paramita-CV.pdf" target="_blank">CV</a>

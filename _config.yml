@@ -21,6 +21,6 @@ plugins:
 header_pages:
   #- resume.md
   - publications.md
-  - blog/index.html
+  #- blog/index.html
   - index.md
   - projects.md

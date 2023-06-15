@@ -8,4 +8,4 @@ header:
   image: assets/images/banner.jpg
 ---
 
-<embed src="https://belovanna.github.io/assets/download/sample.pdf" type="application/pdf" />
+<embed src="Paramita-CV.pdf" type="application/pdf" />

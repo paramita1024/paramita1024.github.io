@@ -6,25 +6,41 @@ author_profile: true
 classes: wide
 ---
 
-### Computer Science
+### Temporal point process
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
-**Cartolabe: A web-based Scalable Visualization of Large Document Collections**, *IEEE CG&A, 2021*  
-Philippe Caillou, Jonas Renault, Jean-Daniel Fekete, Anne-Catherine Letournel, Michèle Sebag  
-[https://hal.inria.fr/hal-02499006v1](https://hal.inria.fr/hal-02499006v1)
+**Differentiable Change-point Detection With Temporal Point Processes**, *AISTATS (2023), Valencia, Spain*
+_**Paramita Koley**_, Harshavardhan Alimi, Shrey Singla, Sourangshu Bhattacharya, Niloy Ganguly, Abir De 
 
-**MASSICCC: A SaaS Platform for Clustering and Co-Clustering of Mixed Data**, *Workshop MixStatSeq, 2018*  
-Christophe Biernacki, Benjamin Auder, Gilles Celeux, Josselin Demont, Florent Langrognet, Vincent Kubicki, Christian Poli, Jonas Renault  
-[https://hal.inria.fr/hal-01949175v1](https://hal.inria.fr/hal-01949175v1)
+**Demarcating Endogenous and Exogenous Opinion Dynamics: An Experimental Design Approach**, *ACM Transaction on Knowledge Discovery from Data (2021)*
+_**Paramita Koley**_, Avirup Saha, Sourangshu Bhattacharya, Niloy Ganguly, Abir De  
+[<span style="color:blue"> [PDF]</span>](https://dl.acm.org/doi/10.1145/3449361)
 
 
-### Humanities and Social Sciences
+
+### Reinforcement learning
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
-**Trouble dans le sujet. Subjectivation, performativité & critique chez Judith Butler**, *2020*  
-Mémoire de master philosophie 2e année, dir. Judith Revel, Université Paris Nanterre
+**Offsetting Unequal Competition Through RL-Assisted Incentive Schemes**, *IEEE Transactions on Computational Social Systems (2022)*
+_**Paramita Koley**_, Aurghya Maiti, Sourangshu Bhattacharya, Niloy Ganguly
+[<span style="color:blue"> [PDF]</span>](https://ieeexplore.ieee.org/document/9693521)
 
-**La nature du temps dans la pensée de Jacques Rancière**, *2019*  
-Mémoire de master philosophie 1e année, dir. Patrice Maniglier, Université Paris Nanterre
+
+### Human-assisted machine learning
+{: style="font-size:.85em; color: #7a8288;"}
+---
+
+**Regression under Human Assistance**, *AAAI (2020)*
+Abir De, _**Paramita Koley**_, Niloy Ganguly, Manuel Gomez-Rodriguez  
+[<span style="color:blue"> [PDF]</span>](https://ojs.aaai.org/index.php/AAAI/article/view/5645)
+
+
+### Others
+
+**Generative Maximum Entropy Learning for Multiclass Classification**, *ICDM (2013)* 
+Ambedkar Dukkipati, Gaurav Pandey, Debarghya Ghoshdastidar, _**Paramita Koley**_, D. M. V. Satya Sriram
+[<span style="color:blue"> [PDF]</span>](https://ieeexplore.ieee.org/document/6729498)  
+
+

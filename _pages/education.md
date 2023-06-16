@@ -10,7 +10,7 @@ classes: wide
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
-**Doctor of Phylosophy in Computer Science**, *2018-current*  
+**Doctor of Philosophy in Computer Science**, *2018-current*  
 CSE, IIT Kharagpur, *Kharagpur, India*
 
 **Master of Engineering in Computer Science**, *2011-2013*  

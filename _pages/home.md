@@ -12,8 +12,6 @@ Currently, I am part of Complex Networks Research Group at IIT Kharagpur. Prior 
 
 Please find my CV <a href="Paramita-CV.pdf" >here</a>
 
-[//]: # Please take a look at [the projects I have worked at](/project).
-
 Here is my [CV](/files/Paramita-CV.pdf).
 
 Please contact me with any questions (email on the left).

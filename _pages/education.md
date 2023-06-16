@@ -10,19 +10,12 @@ classes: wide
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
-**Master's degree in computer science engineering and applied mathematics**, *2006-2009*  
-ENSEEIHT, *Toulouse, France*
+**Doctor of Phylosophy in Computer Science**, *2018-current*  
+CSE, IIT Kharagpur, *Kharagpur, India*
 
-**Master's degree in artificial intelligence**, *2009*  
-Université Paul Sabatier, *Toulouse, France*
+**Master of Engineering in Computer Science**, *2011-2013*  
+CSA, IISc Bangalore, *Bangalore, India*
 
+**Bachelor of Engineering in Information Technology**, *2006-2010*  
+IT, IIEST Shibpur, *West Bengal, India*
 
-### Humanities and Social Sciences
-{: style="font-size:.85em; color: #7a8288;"}
----
-
-**Master's degree in philosophy**, *2018-2020*  
-Université Paris Nanterre, *Nanterre, France*
-
-**Bachelor in visual arts**, *2015-2018*  
-Université Paris 1 Panthéon-Sorbonne, *Paris, France*

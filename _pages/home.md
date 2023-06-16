@@ -6,14 +6,14 @@ author_profile: true
 classes: wide
 ---
 
-Hi! I'm a senior research engineer and fullstack developer, with master's degrees in applied mathematics, computer science and artificial intelligence. I specialize in developing data analysis and visualization tools, mostly with Python and JavaScript frameworks.
+I am a PhD scholar in department of Computer Science and Engineering at IIT Kharagpur, India. I am working under the supervision of Prof. Niloy Ganguly and Prof. Sourangshu Bhattacharya. Also I am currently a part of Complex Networks Research Group at IIT Kharagpur.  My research area is broadly machine learning. I am interested in learning with temporal point processes. Broadly, my works address various robust learning problem in modeling asynchronous temporal sequences. I am also interested in the development of various machine learning models that are optimized to operate under different automation levels, broadly putting human in a loop with machine learning systems. I have also worked in multi-agent reinforcement learning. My works address various learning challenges in multi-agent team competitions. 
 
-I have twelve years of experience working as a software developer, and for the past six years I’ve been contributing to open-source projects while working as a research engineer for French research institutes (CNRS, INRIA). I have an interest for public service and projects that tackle current social and political problems through the development of human-focused software, data analysis and visualization.
+Currently, I am part of Complex Networks Research Group at IIT Kharagpur. Prior to this, I have completed my master's degree from the department of Computer Science and Automation at IISc, Bangalore. Before that, I completed my bachelor's degree from the department of Information Technology at IIEST, Shibpur. 
 
-I enjoy working with multidisciplinary teams from various backgrounds. I have experience working with small, agile teams to deliver software that is problem oriented and reliable. I am an independent engineer and I value initiative, knowledge sharing, good coding practices.
+Please find my CV <a href="Paramita-CV.pdf" >here</a>
 
-Please take a look at [some of my work](/work).
+[//]: # Please take a look at [the projects I have worked at](/project).
 
-Here is my [resume](/files/cv-jrenault-2022.pdf) (in french).
+Here is my [CV](/files/Paramita-CV.pdf).
 
 Please contact me with any questions (email on the left).

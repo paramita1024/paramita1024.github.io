@@ -5,5 +5,5 @@ My research area is broadly learing from temporal data. Specifically, my works a
 
 Currently, I am part of Complex Networks Research Group at IIT Kharagpur. Prior to this, I have completed my master's degree from the department of Computer Science and Automation at IISc, Bangalore. Before that, I completed my bachelor's degree from the department of Information Technology at IIEST, Shibpur. 
 
-Please find my CV <a href="Paramita-CV.pdf" >here</a>
+Please find my CV <a href="Paramita_CV_2023.pdf" >here</a>
 

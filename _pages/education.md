@@ -13,7 +13,7 @@ classes: wide
 AI4ICPS Hub Foundation, *Kharagpur, India*
 
 
-**Doctor of Philosophy in Computer Science**, *2018-2023*  (Thesis submitted)
+**Doctor of Philosophy in Computer Science**, *2018-current*  (Thesis submitted)
 CSE, IIT Kharagpur, *Kharagpur, India*
 
 **Master of Engineering in Computer Science**, *2011-2013*  

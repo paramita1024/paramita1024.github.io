@@ -23,6 +23,10 @@ _**Paramita Koley**_, Avirup Saha, Sourangshu Bhattacharya, Niloy Ganguly, Abir 
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
+**Opponent-aware Learning of Emergent Roles in Team-competitive Markov Games: an Actor-critic Approach**, *IEEE Transactions on Computational Social Systems (Under minor revision)*
+_**Paramita Koley**_, Aurghya Maiti, Sourangshu Bhattacharya, Niloy Ganguly
+
+
 **Offsetting Unequal Competition Through RL-Assisted Incentive Schemes**, *IEEE Transactions on Computational Social Systems (2022)*
 _**Paramita Koley**_, Aurghya Maiti, Sourangshu Bhattacharya, Niloy Ganguly
 [<span style="color:blue"> [PDF]</span>](https://ieeexplore.ieee.org/document/9693521)

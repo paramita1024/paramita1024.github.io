@@ -44,8 +44,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 author:
   name             : "Paramita Koley"
   avatar           : "/images/bio-photo-2.jpg"
-  bio              : "Chanakya Post Doc Fellow  / AI4ICPS Hub Foundation"
-  location         : "Kharagpur, India"
+  bio              : "SERB National Post Doctoral Fellow"
+  location         : "Machine Intelligence Unit, ISI Kolkata, India"
   employer         :
   email            : "paramita2000@gmail.com"
   github           : "paramita1024"

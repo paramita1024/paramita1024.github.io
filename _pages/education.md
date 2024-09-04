@@ -9,8 +9,8 @@ classes: wide
 ### Computer Science
 {: style="font-size:.85em; color: #7a8288;"}
 ---
-**Chanakya Post Doctoral Fellow**, *2024*  
-AI4ICPS Hub Foundation, *Kharagpur, India*
+**SERB National Post Doctoral Fellow**, *2024*  
+MIU, ISI Kolkata, India*
 
 
 **Doctor of Philosophy in Computer Science**, *2018-current*  (Thesis submitted)

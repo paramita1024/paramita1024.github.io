@@ -10,7 +10,7 @@ classes: wide
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 **SERB National Post Doctoral Fellow**, *2024*  
-MIU, ISI Kolkata, India*
+MIU, ISI Kolkata, India
 
 
 **Doctor of Philosophy in Computer Science**, *2018-current*  (Thesis submitted)

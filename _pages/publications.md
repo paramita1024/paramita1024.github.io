@@ -9,6 +9,10 @@ classes: wide
 ### Temporal point process
 {: style="font-size:.85em; color: #7a8288;"}
 ---
+**ExPERT: Modeling Human Behavior under External Stimuli Aware Personalized MTPP**, *AAAI (2025), Philadelphia, USA*
+Subhendu Khatuya, Ritwik Vij, _**Paramita Koley**_, Samik Dutta, and Niloy Ganguly
+
+
 
 **Differentiable Change-point Detection With Temporal Point Processes**, *AISTATS (2023), Valencia, Spain*
 _**Paramita Koley**_, Harshavardhan Alimi, Shrey Singla, Sourangshu Bhattacharya, Niloy Ganguly, Abir De 

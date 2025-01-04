@@ -4,5 +4,5 @@ My research primarily focuses on learning from temporal data. Specifically, I ad
 
 I received a master's degree from the Department of Computer Science and Automation at IISc, Bangalore, and a bachelor's degree from the Department of Information Technology at IIEST, Shibpur.
 
-Please find my CV <a href="Paramita_CV_2023.pdf" >here</a>
+Please find my CV <a href="Paramita_CV.pdf" >here</a>
 

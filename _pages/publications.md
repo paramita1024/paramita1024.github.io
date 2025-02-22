@@ -6,6 +6,16 @@ author_profile: true
 classes: wide
 ---
 
+### Energy-efficient algorithms for LLMs
+{: style="font-size:.85em; color: #7a8288;"}
+---
+**Towards Sustainable NLP: Insights from Benchmarking Inference Energy in Large Language Models**, *NAACL 2025*. 
+Soham Poddar, Paramita Koley, Janardan Misra, Niloy Ganguly, and Saptarshi Ghosh
+
+
+
+
+
 ### Temporal point process
 {: style="font-size:.85em; color: #7a8288;"}
 ---

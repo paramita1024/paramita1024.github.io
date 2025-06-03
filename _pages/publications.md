@@ -9,8 +9,10 @@ classes: wide
 ### Energy-efficient algorithms for LLMs
 {: style="font-size:.85em; color: #7a8288;"}
 ---
+**Brevity is the soul of sustainability: Characterizing LLM response lengths**, *ACL 2025* (Findings). Soham Poddar, _**Paramita Koley**_, Janardan Misra, Niloy Ganguly, Saptarshi Ghosh
+
 **Towards Sustainable NLP: Insights from Benchmarking Inference Energy in Large Language Models**, *NAACL 2025*. 
-Soham Poddar, Paramita Koley, Janardan Misra, Niloy Ganguly, and Saptarshi Ghosh
+Soham Poddar, _**Paramita Koley**_, Janardan Misra, Niloy Ganguly, and Saptarshi Ghosh
 
 
 

@@ -1,9 +1,11 @@
 ---
-layout: default
-title: Projects
-#permalink: /publications/
-#author_profile: true
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+classes: wide
 ---
+
 ## Current projects
 <hr style="border:2px solid gray">
 

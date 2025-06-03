@@ -9,11 +9,11 @@ classes: wide
 ### Computer Science
 {: style="font-size:.85em; color: #7a8288;"}
 ---
-**SERB National Post Doctoral Fellow**, *2024*  
+**SERB National Post Doctoral Fellow**, *March 2024-current*  
 MIU, ISI Kolkata, India
 
 
-**Doctor of Philosophy in Computer Science**, *2018-current*  (Thesis submitted)
+**Doctor of Philosophy in Computer Science**, *2018-2024*  
 CSE, IIT Kharagpur, *Kharagpur, India*
 
 **Master of Engineering in Computer Science**, *2011-2013*  
